@@ -25,8 +25,7 @@
 ### 📌 Let's connect!
 - 🌐 [Portfolio](https://portfolio-hussam-muhammad-kazims-projects.vercel.app/)
 - 💼 [Linkedin Profile](https://www.linkedin.com/in/hussam-muhammad-kazim/)
-- 📫 Reach me: **hussam.codes[at]gmail.com**
-- 📦 Fun fact: I created a 3D cartoon character named **Alex** – he's a 9-year-old who loves writing at cafes ☕️📓
+- 📫 Reach me: **[husamkazim77@gmail.com](mailto:husamkazim77@gmail.com)**
 
 ---
 
