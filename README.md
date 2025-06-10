@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Hussam Muhammad Kazim
 
-🎓 I'm a 17-year-old aspiring **Machine Learning Engineer** on a mission to build smart solutions and meaningful technology.
+🎓 I'm a 17-year-old **Data Scientist** on a mission to build smart solutions and meaningful technology.
 
-🔍 Currently diving deep into the **Machine Learning Specialization by Andrew Ng**, exploring the building blocks of ML algorithms and getting hands-on with real-world problems.
+🔍 Currently diving deep into the **IBM Data Science Professional Certificate at Coursera**, exploring the building blocks of Data Science algorithms and getting hands-on with real-world problems.
 
 💻 I recently completed a project on **Brain Tumor Segmentation**, applying what I’ve learned in a practical, impactful way. You can check it out [here](https://github.com/HussamMuhammadKazim/brain-tumor-segmentation)!
 
