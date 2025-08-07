@@ -1,41 +1,53 @@
-# 👋 Hey there! I'm Hussam Muhammad Kazim
+<h1 align="center">Hi there 👋, I'm Hussam Muhammad Kazim</h1>
+<h3 align="center">Flutter Developer 🚀 | AI Learner 🤖 | Data Science Explorer 📊</h3>
 
-🎓 I'm a 17-year-old **Data Scientist** on a mission to build smart solutions and meaningful technology.
-
-🔍 Currently diving deep into the **IBM Data Science Professional Certificate at Coursera**, exploring the building blocks of Data Science algorithms and getting hands-on with real-world problems.
-
-💻 I recently completed a project on **Brain Tumor Segmentation**, applying what I’ve learned in a practical, impactful way. You can check it out [here](https://github.com/HussamMuhammadKazim/brain-tumor-segmentation)!
-
-🚀 I’m passionate about:
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Computer Vision & Medical Imaging
-- 📊 Data Science & Model Interpretability
-- 🧪 Experimenting with AI tools and new tech
-
-🌱 On my learning roadmap:
-- 📚 Deep Learning Specialization (coming up next!)
-- 🛠 Building small ML projects and case studies
-- 💡 Launching open-source tools for learners like me
-- 🧩 Participating in Kaggle competitions (soon!)
-
-📺 I’m also planning to launch a YouTube channel — **LearnWithHussam (LWH)** — where I’ll be sharing tutorials, projects, and my journey into the world of AI. Stay tuned!
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="coding gif">
+</p>
 
 ---
 
-### 📌 Let's connect!
-- 🌐 [Portfolio](https://portfolio-hussam-muhammad-kazims-projects.vercel.app/)
-- 💼 [Linkedin Profile](https://www.linkedin.com/in/hussam-muhammad-kazim/)
-- 📫 Reach me: **[husamkazim77@gmail.com](mailto:husamkazim77@gmail.com)**
+🌱 **Currently learning:**
+- Flutter & Dart (Maximilian Schwarzmüller's course 📱)
+- IBM Data Science Professional Certificate (Coursera 🧠)
+- Machine Learning Specialization by Andrew Ng (ML mastery loading... 🔄)
+
+🔧 **Tech Stack:**
+- **Mobile:** Flutter, Dart
+- **AI/ML:** Python, Pandas, NumPy, scikit-learn, YOLOv11, SAM2
+- **Tools:** Git, GitHub, VS Code, Android Studio
+- **Automation:** n8n (self-hosted ⚙️)
 
 ---
 
-### 🛠️ Tech Stack
-`Python` | `NumPy` | `Pandas` | `scikit-learn` | `Matplotlib` | `OpenCV` | `Jupyter`  
-Currently exploring: `TensorFlow`, `Keras`, `PyTorch`
+🚀 **Some Cool Stuff I’ve Built:**
+- 🧠 **Brain Tumor Detection & Segmentation** using YOLOv11 + SAM2
+- 📲 Currently working on **Flutter apps** with focus on real-world UI/UX
+- 🤖 Building **AI agents** to automate real-world tasks
 
 ---
 
-> _“Learning never exhausts the mind — it ignites it.”_
+💡 **About Me:**
+- 🧑‍🎓 I'm 17, passionate about building the future with AI & mobile tech
+- 🎯 Future Goal: Launching my own startup **Xonix Solutions** to build futuristic robots 🤖
+- 🌐 Check out my portfolio: [hussam-kazim.vercel.app](https://hussam-kazim.vercel.app)
 
-Thanks for stopping by! Drop a ⭐️ on something you liked or feel free to connect! 😄
+---
 
+📈 **GitHub Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HussamMuhammadKazim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussamMuhammadKazim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+📫 **Let’s connect!**
+- 🌍 LinkedIn: [Hussam Muhammad Kazim](https://www.linkedin.com/in/hussam-muhammad-kazim/)
+- 🧠 AI Discord Server: **AI Nexus**
+- 📬 Email: Coming soon 😉
+
+---
+
+✨ *“Learning never exhausts the mind, it only ignites it.”* – Let’s build something epic!  
