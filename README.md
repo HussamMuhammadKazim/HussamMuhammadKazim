@@ -29,15 +29,14 @@
 
 💡 **About Me:**
 - 🧑‍🎓 I'm 17, passionate about building the future with AI & mobile tech
-- 🎯 Future Goal: Launching my own startup **Xonix Solutions** to build futuristic robots 🤖
+- 🎯 Future Goal: Launching my own startup to build futuristic robots 🤖
 - 🌐 Check out my portfolio: [hussam-kazim.vercel.app](https://hussam-kazim.vercel.app)
 
 ---
 
 📫 **Let’s connect!**
 - 🌍 LinkedIn: [Hussam Muhammad Kazim](https://www.linkedin.com/in/hussam-muhammad-kazim/)
-- 🧠 AI Discord Server: **AI Nexus**
-- 📬 Email: (husamkazim77@gmail.com)
+- 📬 Email: husamkazim77@gmail.com
 
 ---
 
