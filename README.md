@@ -34,19 +34,10 @@
 
 ---
 
-📈 **GitHub Stats:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HussamMuhammadKazim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussamMuhammadKazim&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 📫 **Let’s connect!**
 - 🌍 LinkedIn: [Hussam Muhammad Kazim](https://www.linkedin.com/in/hussam-muhammad-kazim/)
 - 🧠 AI Discord Server: **AI Nexus**
-- 📬 Email: Coming soon 😉
+- 📬 Email: (husamkazim77@gmail.com)
 
 ---
 
